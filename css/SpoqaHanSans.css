@@ -1,14 +1,14 @@
 @font-face {
-    font-family: 'Spoqa Han Sans';
+    font-family: 'SpoqaHanSans-Regular';
     font-weight: 400;
-    src: local('Spoqa Han Sans Regular'),
-    url('https://cdn.rawgit.com/spoqa/spoqa-han-sans/212c9818/Subset/SpoqaHanSans/Spoqa%20Han%20Sans%20Regular.ttf') format('truetype');
+    src: local('SpoqaHanSans-Regular'),
+    url('https://cdn.rawgit.com/mywizz/vollago-resources/51d94f83/css/Spoqa%20Han%20Sans%20Regular.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Spoqa Han Sans';
+    font-family: 'SpoqaHanSans-Regular';
     font-weight: 700;
-    src: local('Spoqa Han Sans Bold'),
-    url('https://cdn.rawgit.com/spoqa/spoqa-han-sans/212c9818/Subset/SpoqaHanSans/Spoqa%20Han%20Sans%20Bold.ttf') format('truetype');
+    src: local('SpoqaHanSans-Bold'),
+    url('https://cdn.rawgit.com/mywizz/vollago-resources/51d94f83/css/Spoqa%20Han%20Sans%20Bold.ttf') format('truetype');
 }
 

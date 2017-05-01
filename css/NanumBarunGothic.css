@@ -6,7 +6,7 @@
 }
 
 @font-face {
-    font-family: 'NanumBarunGothicBold';
+    font-family: 'NanumBarunGothic';
     font-weight: 700;
     src: local('NanumBarunGothicBold'),
     url('https://cdn.rawgit.com/mywizz/vollago-resources/71793ca3/css/NanumBarunGothicBold.ttf') format('truetype');
