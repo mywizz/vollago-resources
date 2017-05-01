@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'SpoqaHanSans-Regular';
     font-weight: 400;
-    src: local('Spoqa Han Sans Regular'),
+    src: local('SpoqaHanSans-Regular'),
     url('https://cdn.rawgit.com/mywizz/vollago-resources/51d94f83/css/Spoqa%20Han%20Sans%20Regular.ttf') format('truetype');
 }
 
