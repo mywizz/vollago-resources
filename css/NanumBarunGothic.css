@@ -2,12 +2,12 @@
     font-family: 'NanumBarunGothic';
     font-weight: 400;
     src: local('NanumBarunGothic'),
-    url('NanumBarunGothic.ttf') format('truetype');
+    url('https://cdn.rawgit.com/mywizz/vollago-resources/71793ca3/css/NanumBarunGothic.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'NanumBarunGothicBold';
     font-weight: 700;
     src: local('NanumBarunGothicBold'),
-    url('NanumBarunGothicBold.ttf') format('truetype');
+    url('https://cdn.rawgit.com/mywizz/vollago-resources/71793ca3/css/NanumBarunGothicBold.ttf') format('truetype');
 }

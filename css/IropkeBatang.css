@@ -2,5 +2,5 @@
     font-family: 'IropkeBatangM';
     font-weight: 400;
     src: local('IropkeBatangM'),
-    url('IropkeBatangM.ttf') format('truetype');
+    url('https://cdn.rawgit.com/mywizz/vollago-resources/71793ca3/css/IropkeBatangM.ttf') format('truetype');
 }
