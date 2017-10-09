@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'NanumSquareRoundR';
+    font-weight: 400;
+    src: local('NanumSquareRoundR'),
+    url('https://cdn.rawgit.com/mywizz/vollago-resources/775068e6/css/NanumSquareRoundR.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumSquareRoundB';
+    font-weight: 700;
+    src: local('NanumSquareRoundB'),
+    url('https://cdn.rawgit.com/mywizz/vollago-resources/775068e6/css/NanumSquareRoundB.ttf') format('truetype');
+}
