@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'IropkeBatangM';
+    font-weight: 400;
+    src: local('IropkeBatangM'),
+    url('https://cdn.rawgit.com/mywizz/vollago-resources/71793ca3/css/IropkeBatangM.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-weight: 400;
+    src: local('NanumBarunGothic'),
+    url('https://cdn.rawgit.com/mywizz/vollago-resources/71793ca3/css/NanumBarunGothic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-weight: 700;
+    src: local('NanumBarunGothicBold'),
+    url('https://cdn.rawgit.com/mywizz/vollago-resources/71793ca3/css/NanumBarunGothicBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumSquareRoundR';
+    font-weight: 400;
+    src: local('NanumSquareRoundR'),
+    url('https://cdn.rawgit.com/mywizz/vollago-resources/775068e6/css/NanumSquareRoundR.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumSquareRoundB';
+    font-weight: 700;
+    src: local('NanumSquareRoundB'),
+    url('https://cdn.rawgit.com/mywizz/vollago-resources/775068e6/css/NanumSquareRoundB.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Spoqa Han Sans';
+    font-weight: 400;
+    src: local('Spoqa Han Sans Regular'),
+    url('https://cdn.rawgit.com/mywizz/vollago-resources/51d94f83/css/Spoqa%20Han%20Sans%20Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Spoqa Han Sans';
+    font-weight: 700;
+    src: local('Spoqa Han Sans Bold'),
+    url('https://cdn.rawgit.com/mywizz/vollago-resources/51d94f83/css/Spoqa%20Han%20Sans%20Bold.ttf') format('truetype');
+}
