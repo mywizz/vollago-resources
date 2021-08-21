@@ -46,3 +46,10 @@
     src: local('Spoqa Han Sans Bold'),
     url('https://cdn.rawgit.com/mywizz/vollago-resources/51d94f83/css/Spoqa%20Han%20Sans%20Bold.ttf') format('truetype');
 }
+
+@font-face {
+    font-family: 'RIDIBatang';
+    font-weight: 400;
+    src: local('RIDIBatang'),
+    url('https://cdn.rawgit.com/mywizz/vollago-resources/51d94f83/css/RIDIBatang.ttf') format('truetype');
+}
