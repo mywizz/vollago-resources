@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'MabinogiClassic';
+    font-weight: 400;
+    src: local('마비옛체'),
+    url('https://rawcdn.githack.com/mywizz/vollago-resources/721087a77ba2ff99030b3669dbcc42602c1d322f/css/Mabinogi_Classic_TTF.ttf') format('truetype');
+}
